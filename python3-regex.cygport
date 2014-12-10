@@ -1,0 +1,9 @@
+inherit python3-distutils
+
+NAME="python3-regex"
+VERSION=2014.11.14
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Alternative regex module for Python3"
+DESCRIPTION="This new regex implementation is intended eventually to replace
+Python's current re module implementation."
