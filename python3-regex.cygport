@@ -1,7 +1,7 @@
 inherit python3-distutils
 
 NAME="python3-regex"
-VERSION=2014.11.14
+VERSION=2015.03.18
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Alternative regex module for Python3"
